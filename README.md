@@ -18,9 +18,17 @@
 
 ### پروژه‌های من
 
-- [Awesome Project](https://github.com/Phix0n-z3r/awesome-project)  
-- [Another Cool Repo](https://github.com/Phix0n-z3r/cool-repo)  
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
+  <a href="https://github.com/Phix0n-z3r/awesome-project" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phix0n-z3r&repo=awesome-project&theme=radical" alt="Awesome Project" />
+  </a>
+
+  <a href="https://github.com/Phix0n-z3r/cool-repo" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phix0n-z3r&repo=cool-repo&theme=radical" alt="Cool Repo" />
+  </a>
+
+</div>
 ---
 
 ### مدال‌ها و آمار فعالیت من در گیت‌هاب
