@@ -1,3 +1,4 @@
+<center>
 <div dir="rtl" style="text-align: right;">
 
 # Phix0n-z3r 👋
@@ -11,23 +12,23 @@
 <div style="display: flex; gap: 20px; justify-content: flex-end; flex-wrap: wrap;">
 
   <!-- Python -->
-  <div style="text-align: center; width: 120px;">
+  <div style="text-align: center; width: 100px;">
     <h4>Python</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=javascript,cpp,java" alt="Python Progress" />
   </div>
 
   <!-- JavaScript -->
-  <div style="text-align: center; width: 120px;">
+  <div style="text-align: center; width: 80px;">
     <h4>JavaScript</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=python,cpp,java" alt="JavaScript Progress" />
   </div>
 
-  <div style="text-align: center; width: 120px;">
+  <div style="text-align: center; width: 111px;">
     <h4>C++</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=python,javascript,java" alt="C++ Progress" />
   </div>
 
-  <div style="text-align: center; width: 120px;">
+  <div style="text-align: center; width: 100px;">
     <h4>Bash</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=python,javascript,cpp" alt="bash Progress" />
   </div>
@@ -49,6 +50,7 @@
   </a>
 
 </div>
+</center>
 
 ---
 
