@@ -1,6 +1,6 @@
-<div dir="rtl">
+<div dir="rtl" style="text-align: right;">
 
-# Phix0n-z3r 
+# Phix0n-z3r 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phix0n-z3r&show_icons=true&theme=radical&count_private=true)
 
@@ -8,9 +8,31 @@
 
 ### زبان‌های برنامه‌نویسی
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=5" alt="Top Languages" />
-</p>
+<div style="display: flex; gap: 20px; justify-content: flex-end; flex-wrap: wrap;">
+
+  <!-- Python -->
+  <div style="text-align: center; width: 120px;">
+    <h4>Python</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=javascript,cpp,java" alt="Python Progress" />
+  </div>
+
+  <!-- JavaScript -->
+  <div style="text-align: center; width: 120px;">
+    <h4>JavaScript</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=python,cpp,java" alt="JavaScript Progress" />
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <h4>C++</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=python,javascript,java" alt="C++ Progress" />
+  </div>
+
+  <div style="text-align: center; width: 120px;">
+    <h4>Bash</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=1&hide=python,javascript,cpp" alt="bash Progress" />
+  </div>
+
+</div>
 
 ---
 
