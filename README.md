@@ -1,24 +1,22 @@
-# سلام! من Phix0n-z3r 👋
+<div dir="rtl">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phix0n-z3r&show_icons=true&theme=radical)
+# Phix0n-z3r 
 
-### درباره من
-- 💻 توسعه‌دهنده فول‌استک  
-- 🎯 علاقه‌مند به هوش مصنوعی و اپن سورس  
-- 📫 راه‌های ارتباطی:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%237B2FF7.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)  
-  [![Twitter](https://img.shields.io/badge/Twitter-%23F535AA.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phix0n-z3r&show_icons=true&theme=radical&count_private=true)
+
+---
 
 ### زبان‌های برنامه‌نویسی
-![Python](https://img.shields.io/badge/Python-6E42C1?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F535AA.svg?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-8B5CF6?style=flat&logo=react&logoColor=white)
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phix0n-z3r&layout=compact&theme=radical&langs_count=5" alt="Top Languages" />
+</p>
 
 ---
 
 ### پروژه‌های من
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: flex-end;">
 
   <a href="https://github.com/Phix0n-z3r/awesome-project" target="_blank" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phix0n-z3r&repo=awesome-project&theme=radical" alt="Awesome Project" />
@@ -29,6 +27,7 @@
   </a>
 
 </div>
+
 ---
 
 ### مدال‌ها و آمار فعالیت من در گیت‌هاب
@@ -36,3 +35,5 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Phix0n-z3r&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phix0n-z3r&theme=radical)
+
+</div>
